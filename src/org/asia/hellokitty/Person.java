@@ -1,5 +1,6 @@
 package org.asia.hellokitty;
 
+// co robi ta klasa? WTF?
 public class Person {
 
 	private String name;
